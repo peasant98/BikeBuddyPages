@@ -14,7 +14,7 @@ keep_files:
 
 
 # Site settings
-title: BikeBuddy
+title: Bike Buddy
 subtitle: "An excellent mobile app"
 url: "bike.udana.systems" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
@@ -29,9 +29,3 @@ markdown: kramdown
 # ga_tracking_id: "UA-XXXX-1"
 
 # Category descriptions (for archive pages)
-descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
-
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."

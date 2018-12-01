@@ -1,11 +1,5 @@
-# Bike Buddy
-## Run project
+# Bike Buddy Website
+# Red Team 205
+Deployed Version:
 
-Needs: Ruby
-
-## Local 
-
-1. `gem install jekyll`
-2. `gem install bundler`
-3. `bundle install`
-4. `bundle exec jekyll serve`
+Check it out [here](https://bike.udana.systems/)!
