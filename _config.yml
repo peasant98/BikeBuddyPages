@@ -16,7 +16,7 @@ keep_files:
 # Site settings
 title: BikeBuddy
 subtitle: "An excellent mobile app"
-url: "https://peasant98.github.io/BikeBuddyPages" # the base hostname & protocol for your site
+url: "/BikeBuddyPages" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 --baseurl: ""
 cover: "/assets/cover.png"
